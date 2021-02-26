@@ -107,11 +107,11 @@ body.scale-cv{
 }
 
 .scale-cv .section{
-  padding: 1.5rem 0 .80rem;
+  padding: 1.5rem 0 .60rem;
 }
 
 .scale-cv .section-title{
-  margin-bottom: .75rem;
+  margin-bottom: .65rem;
 }
 
 .scale-cv .resume__left,
@@ -120,7 +120,7 @@ body.scale-cv{
 }
 
 .scale-cv .home__img{
-  width: 130px;
+  width: 128px;
   /* height: 90px; */
 }
 
@@ -134,7 +134,7 @@ body.scale-cv{
 
 .scale-cv .home__address,
 .scale-cv .social__container{
-  gap: .75rem;
+  gap: .85rem;
 }
 
 .scale-cv .home__icon,
